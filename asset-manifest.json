@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tomo-drag/static/css/main.fe32f2ff.css",
+    "main.js": "/tomo-drag/static/js/main.ba2d963d.js",
+    "index.html": "/tomo-drag/index.html",
+    "main.fe32f2ff.css.map": "/tomo-drag/static/css/main.fe32f2ff.css.map",
+    "main.ba2d963d.js.map": "/tomo-drag/static/js/main.ba2d963d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe32f2ff.css",
+    "static/js/main.ba2d963d.js"
+  ]
+}
